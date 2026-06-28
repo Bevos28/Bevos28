@@ -28,7 +28,7 @@ Relevant coursework at HKUST includes:
 
 ### Research Preparation
 
-I completed a UROP reading project on mental-state reasoning for large language models. During this project, I read introductory materials and papers related to Theory of Mind (ToM) and mental-state reasoning, LLM agents and agent memory, Retrieval-Augmented Generation, LoRA and parameter-efficient adaptation, Chain-of-Thought prompting and prompt engineering, Agent skills.
+I completed a UROP reading project on mental-state reasoning for large language models. During this project, I read introductory materials and papers related to Theory of Mind (ToM) and mental-state reasoning, LLM agents and agent memory, Retrieval-Augmented Generation, LoRA and parameter-efficient adaptation, Chain-of-Thought prompting and prompt engineering and Agent skills.
 
 This experience was mainly reading-based, but it helped me become more familiar with reading research papers, organizing technical notes, and connecting recent LLM-related techniques with research questions.
 
