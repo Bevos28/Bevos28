@@ -24,7 +24,6 @@ Relevant coursework at HKUST includes:
 - **Data Analysis & Visualization:** NumPy, pandas, Matplotlib, seaborn, Jupyter Notebook
 - **Machine Learning:** scikit-learn, PyTorch basics, CNNs, RNNs, Transformers, VAEs, GANs
 - **LLM/NLP Preparation:** Prompting, RAG, LoRA, Chain-of-Thought, LLM agents
-- **Tools:** Git, GitHub, LaTeX
 
 ### Research Preparation
 
