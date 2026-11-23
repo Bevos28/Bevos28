@@ -1,6 +1,6 @@
 # WU Jingtong
 
-I am a Year 2 Computer Science undergraduate student at the Hong Kong University of Science and Technology (HKUST), majoring in Computer Science with an extended major in Artificial Intelligence.
+I am a Year 3 Computer Science undergraduate student at the Hong Kong University of Science and Technology (HKUST), majoring in Computer Science with an extended major in Artificial Intelligence.
 
 My current preparation is mainly in machine learning, Python-based data analysis, and introductory reading on large language models. I am still at an early stage of research training, and I am looking for opportunities to contribute to concrete research tasks while building stronger research and engineering skills.
 
